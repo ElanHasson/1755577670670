@@ -1,6 +1,9 @@
 {
   "name": "how-to-win-at-y-combinator",
   "version": "1.0.0",
+  "cacheDirectories": [
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
